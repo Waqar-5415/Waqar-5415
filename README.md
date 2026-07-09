@@ -70,12 +70,14 @@ Become an AI Engineer at a leading technology company by building impactful AI s
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Statistics
+
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=⚡+GitHub+Analytics+Initializing...;🚀+Building+Amazing+Projects...;🤖+Training+AI+Models...;📈+Statistics+Will+Appear+Soon..." />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Waqar-5415&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-5415&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<i>Every commit is another step toward becoming an AI Engineer.</i>
 </p>
 
 ---
