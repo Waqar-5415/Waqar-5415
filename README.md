@@ -98,11 +98,72 @@ Become an AI Engineer at a leading technology company by building impactful AI s
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 AI Analytics Dashboard
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=🤖+Initializing+AI+Analytics...;📊+Collecting+GitHub+Statistics...;🚀+Building+Real-World+AI+Projects...;⚡+Analytics+Will+Be+Available+Soon..." />
+</p>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              ⚡ AI ANALYTICS DASHBOARD ⚡                    ║
+║                                                              ║
+║  🟢 Python Development          ██████████ 100%             ║
+║  🟢 Data Structures             █████████░  90%             ║
+║  🟢 SQL & Databases             ████████░░  80%             ║
+║  🟡 Machine Learning            ██████░░░░  60%             ║
+║  🟡 Deep Learning               ████░░░░░░  40%             ║
+║  🔵 Open Source                 ███░░░░░░░  30%             ║
+║                                                              ║
+║      🚀 GitHub statistics will populate automatically       ║
+║        as more projects and contributions are added.        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🏆 AI Achievement System
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=🏆+Achievement+System+Online...;⭐+Unlocking+New+Milestones...;🤖+Building+AI+Solutions...;💡+Every+Commit+Counts..." />
+</p>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    🏆 ACHIEVEMENT VAULT 🏆                   ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ✅ Python Programmer                                        ║
+║  ✅ C++ Developer                                            ║
+║  ✅ SQL & Database Fundamentals                              ║
+║  ✅ Git & GitHub                                             ║
+║                                                              ║
+║  🔒 First Open Source Contribution                           ║
+║  🔒 100 GitHub Commits                                       ║
+║  🔒 500 Contributions                                        ║
+║  🔒 Machine Learning Expert                                  ║
+║  🔒 Deep Learning Projects                                   ║
+║  🔒 TensorFlow Developer                                     ║
+║  🔒 AI Research Portfolio                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Waqar-5415&theme=algolia&margin-w=15&margin-h=15"/>
+### 🌟 *Every commit is a step closer to becoming an AI Engineer.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Contributing;The+best+is+yet+to+come..." />
 
 </p>
 
