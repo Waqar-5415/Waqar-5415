@@ -1,89 +1,81 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Waqar Ahmad AI Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Waqar Ahmad</h1>
 
 <h3 align="center">
-Aspiring AI & Machine Learning Engineer | BS Computer Science Student | Open Source Learner
+Artificial Intelligence • Machine Learning • Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Data+Structures+%26+Algorithms;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Python+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Building+Real+World+Projects"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 BS Computer Science Student at **Riphah International University**
+🎓 BS Computer Science Student
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+🏫 Riphah International University
 
-🌱 Currently learning
+🤖 Aspiring AI & Machine Learning Engineer
+
+🌱 Currently Learning
 
 - Python
 - Data Structures & Algorithms
-- Machine Learning
 - SQL
+- Machine Learning
 - Deep Learning
-- Computer Vision
 
-💡 Interested in
+💡 Interested In
 
 - Artificial Intelligence
 - Machine Learning
-- NLP
 - Computer Vision
+- NLP
 - Backend Development
-- Data Science
 
 🎯 Goal
 
-Become an AI Engineer capable of building intelligent systems that solve real-world problems.
-
-📫 Reach me
-
-📧 **waqartech5415@gmail.com**
-
-🌐 LinkedIn
-
-https://linkedin.com/in/waqar125
+Become an AI Engineer at a leading technology company by building impactful AI solutions and continuously improving my technical skills.
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,mysql" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,git,github,vscode,figma,flutter" />
-</p>
-
-### AI / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
----
-
-# 📈 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Waqar-5415&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,tensorflow,pytorch"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ AI Voice Assistant
+
+⭐ Library Management System
+
+⭐ Portfolio Website
+
+⭐ Machine Learning Projects
+
+⭐ Online Learning Platform
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Waqar-5415&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-5415&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -92,15 +84,15 @@ https://linkedin.com/in/waqar125
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Waqar-5415&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Waqar-5415&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 GitHub Activity Graph
 
-[![Waqar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Waqar-5415&theme=tokyo-night)](https://github.com/Waqar-5415)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Waqar-5415&theme=tokyo-night)](https://github.com/Waqar-5415)
 
 ---
 
@@ -108,15 +100,15 @@ https://linkedin.com/in/waqar125
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Waqar-5415&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Waqar-5415&theme=algolia&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🌎 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/waqar125">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -134,16 +126,16 @@ https://linkedin.com/in/waqar125
 
 ---
 
-# 👀 Profile Views
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=Waqar-5415&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Waqar-5415&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
----
-
-# 💬 Favorite Quote
-
-> *"Consistency beats talent when talent doesn't stay consistent."*
+</p>
 
 ---
 
-⭐ **If you like my work, don't forget to star my repositories!**
+# 💬 Quote
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+⭐ If you like my projects, consider giving them a star!
