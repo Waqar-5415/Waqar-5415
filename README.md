@@ -53,106 +53,19 @@ Become an AI Engineer at a leading technology company by building impactful AI s
 </p>
 
 ---
-# 🧠 AI Engineer Roadmap
+## 🚀 Roadmap
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+Roadmap;💡+Learning+One+Step+At+A+Time;🤖+Building+The+Future+With+AI;⚡+Never+Stop+Learning..." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&width=650&lines=Learning+AI;Building+Projects;Contributing+to+Open+Source;Growing+Every+Day" />
+
 </p>
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                    🎯 AI ENGINEER ROADMAP                           ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  ✅ Programming Fundamentals                                         ║
-║  ✅ C++ Programming                                                  ║
-║  ✅ Python Programming                                               ║
-║  ✅ Object-Oriented Programming                                      ║
-║  ✅ Data Structures & Algorithms                                     ║
-║                                                                      ║
-║  🟡 SQL & Database Systems                                           ║
-║  🟡 Git & GitHub                                                     ║
-║  🟡 Linux Fundamentals                                               ║
-║                                                                      ║
-║  🔵 NumPy                                                            ║
-║  🔵 Pandas                                                           ║
-║  🔵 Matplotlib                                                       ║
-║  🔵 Scikit-Learn                                                     ║
-║                                                                      ║
-║  ⚪ Machine Learning                                                  ║
-║  ⚪ Deep Learning                                                     ║
-║  ⚪ TensorFlow                                                        ║
-║  ⚪ PyTorch                                                           ║
-║                                                                      ║
-║  ⚪ Computer Vision                                                   ║
-║  ⚪ Natural Language Processing                                       ║
-║  ⚪ Large Language Models                                             ║
-║                                                                      ║
-║  ⭐ AI Research                                                       ║
-║  ⭐ Open Source Contributions                                         ║
-║  ⭐ Production AI Systems                                             ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📈 Learning Progress
-
-<div align="center">
-
-| Skill | Progress |
-|:------|:--------:|
-| 🐍 Python | ██████████ 100% |
-| 💻 C++ | █████████░ 90% |
-| 🧩 Data Structures | ████████░░ 80% |
-| 🗄 SQL | ████████░░ 80% |
-| 🌐 Git & GitHub | ███████░░░ 70% |
-| 📊 NumPy | ██████░░░░ 60% |
-| 🐼 Pandas | ██████░░░░ 60% |
-| 📉 Matplotlib | █████░░░░░ 50% |
-| 🤖 Machine Learning | ████░░░░░░ 40% |
-| 🧠 Deep Learning | ██░░░░░░░░ 20% |
-| 👁 Computer Vision | █░░░░░░░░░ 10% |
-| 💬 NLP | █░░░░░░░░░ 10% |
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-✅ Master Python for AI
-
-✅ Solve 300+ DSA Problems
-
-✅ Build 10+ AI Projects
-
-✅ Learn Machine Learning
-
-✅ Learn Deep Learning
-
-✅ Contribute to Open Source
-
-✅ Publish Technical Articles
-
-✅ Build an AI Portfolio
-
-✅ Earn AI Certifications
-
-✅ Prepare for AI Engineer Interviews
-
-</div>
-
----
-
 <p align="center">
+
+🐍 Python → 💻 DSA → 🤖 Machine Learning → 🧠 Deep Learning → 🚀 AI Engineer
+
+</p>
 
 ### ⚡ Mission Status
 
