@@ -135,7 +135,7 @@ Current Mission:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Waqar-5415&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+ <img src="https://raw.githubusercontent.com/Waqar-5415/Waqar-5415/output/trophy.svg"/>
 </p>
 
 <p align="center">
