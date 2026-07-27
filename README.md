@@ -126,7 +126,7 @@ Current Mission:
   <img src="https://raw.githubusercontent.com/Waqar-5415/Waqar-5415/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> ⚙️ Setup needed once: add `.github/workflows/snake.yml` (provided separately) to this repo and run it manually from the Actions tab so the `output` branch is created — after that it refreshes daily on its own.
+
 
 ---
 
