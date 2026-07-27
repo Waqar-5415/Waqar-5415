@@ -130,7 +130,7 @@ Current Mission:
 
 ---
 
-## 🏆 AI Achievement System
+
 
 ## 🏆 GitHub Trophies
 
@@ -149,6 +149,8 @@ Current Mission:
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+•+Building+•+Contributing;The+best+is+yet+to+come..."/>
 
 </p>
+
+---
 
 ## 🌐 Connect With Me
 
