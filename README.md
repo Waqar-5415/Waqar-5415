@@ -132,30 +132,15 @@ Current Mission:
 
 ## 🏆 AI Achievement System
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=🏆+Achievement+System+Online...;⭐+Unlocking+New+Milestones...;🤖+Building+AI+Solutions...;💡+Every+Commit+Counts..."/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Waqar-5415&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
 </p>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    🏆 ACHIEVEMENT VAULT 🏆                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ✅ Python Programmer                                        ║
-║  ✅ C++ Developer                                            ║
-║  ✅ SQL Fundamentals                                         ║
-║  ✅ Git & GitHub                                             ║
-║                                                              ║
-║  🔒 First Open Source Contribution                           ║
-║  🔒 100 GitHub Commits                                       ║
-║  🔒 500 Contributions                                        ║
-║  🔒 Machine Learning Expert                                  ║
-║  🔒 Deep Learning Projects                                   ║
-║  🔒 TensorFlow Developer                                     ║
-║  🔒 AI Research Portfolio                                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <i>Live trophies pulled straight from my GitHub activity — Commits, Pull Requests, Issues, Stars, Followers & Repositories. Updates automatically as I build.</i>
+</p>
 
 <p align="center">
 
@@ -164,8 +149,6 @@ Current Mission:
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+•+Building+•+Contributing;The+best+is+yet+to+come..."/>
 
 </p>
-
----
 
 ## 🌐 Connect With Me
 
